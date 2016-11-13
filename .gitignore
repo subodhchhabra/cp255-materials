@@ -2,6 +2,7 @@
 keys.py
 
 .ipynb_checkpoints
+16-Web-Scraping/old/*
 
 *.bat
 .logs/*
@@ -11,6 +12,7 @@ keys.py
 *.pptx
 *.qgs~
 *.mbox
+*.h5
 
 # Compiled source #
 ###################
